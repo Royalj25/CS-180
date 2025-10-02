@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Jaiah
 
 Welcome to my coding portfolio!  
-This repository is a collection of projects I’ve worked on through coursework, personal learning, and experimentation.  
+This repository is a collection of projects I’ve completed through my Object-Oriented Programming course.
+As I progess through the semester, I will upload projects that I complete to showcase my hardwork in the class.
 I built this space to make it easier for you (employers, collaborators, or the just-curious) to explore my work.  
 
 ---
@@ -29,4 +30,4 @@ A **Java** program that recommends hobbies based on user input.
 
 ---
 
-✨ Thanks for stopping by! Feel free to click into any project folder to see the code and project-specific README files.
+✨ Thanks for stopping by!
