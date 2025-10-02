@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jaiah
+# 👋 Hi, my name is Jaiah Royal!
 
 Welcome to my coding portfolio!  
 This repository is a collection of projects I’ve completed through my Object-Oriented Programming course.
