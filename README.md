@@ -32,7 +32,7 @@ A **Java** program that generates a unique user string based on customer input.
 
 ## 🔗 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/jaiahr2506)  
-- [Resume](resumelink)  
+- [Resume](file:///C:/Users/jaiah/Downloads/Jaiah_Royal.pdf)  
 - [Email](mailto:jaiah.monay@gmail.com)  
 
 ---
