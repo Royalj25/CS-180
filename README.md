@@ -9,10 +9,17 @@ I built this space to make it easier for you (employers, collaborators, or the j
 
 ## 📂 Projects
 
+
 ### 🔥 [Hobby Recommender](./HobbyRecommender/)
 A **Java** program that recommends hobbies based on user input.  
 - Demonstrates use of control flow and string handling  
 - A fun beginner-friendly project showing interactive program design  
+
+
+### 💻 [Create New User](./CreateNewUser/)
+A **Java** program that generates a unique user string based on customer input.
+- Demonstrates **string manipulation**, **control flow**, and **user input handling**.
+- Beginner-friendly project showcasing **interactive program design**.
 
 
 
