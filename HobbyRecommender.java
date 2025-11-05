@@ -7,9 +7,6 @@ import java.util.Scanner;
  * @author Jaiah Royal L27
  * @version 2025-09-21
  *
- * 
- *
- * 
  */
 
 public class HobbyRecommender {
@@ -43,8 +40,6 @@ public class HobbyRecommender {
     public static final String HOBBY_TEN = "Wildlife Photography";
     public static final String HOBBY_ELEVEN = "Go-karting";
     public static final String HOBBY_TWELVE = "Kite Flying";
-    
-    // ------------------------- DO NOT MODIFY ABOVE -------------------------
     
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
