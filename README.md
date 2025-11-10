@@ -10,7 +10,7 @@ I built this space to make it easier for you (employers, collaborators, or the j
 ## 📂 Projects
 
 
-### 🔥 [Hobby Recommender](https://github.com/JaiahRoyal/HobbyRecommender.java)
+### 🔥 [Hobby Recommender](https://github.com/Royalj25/HobbyRecommender.git)
 A **Java** program that recommends hobbies based on user input.  
 - Demonstrates use of control flow and string handling
 - Interactive quiz-style program for hobby suggestions
