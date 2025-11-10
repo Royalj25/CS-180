@@ -17,7 +17,7 @@ A **Java** program that recommends hobbies based on user input.
 - Beginner-friendly project demonstrating decision-making logic 
 
 
-### 💻 [Create New User](./CreateNewUser.java)
+### 💻 [Create New User](https://github.com/Royalj25/CreateNewUser.git)
 A **Java** program that generates a unique user string based on customer input.
 - Demonstrates string manipulation and user input handling
 - Generates unique identifiers to simulate user account creation
