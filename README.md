@@ -22,7 +22,7 @@ A **Java** program that generates a unique user string based on customer input.
 - Generates unique identifiers to simulate user account creation
 - Beginner-friendly project showcasing interactive program design
 
-
+---
 
 ## 💡 About Me
 - 🎓 CS student @ Purdue University  
