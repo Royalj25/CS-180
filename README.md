@@ -1,6 +1,6 @@
-# 👋 Hi, my name is Jaiah Royal!
+# 😁 Welcome to my coding portfolio!
 
-Welcome to my coding portfolio!  
+## 👋 Hi, my name is Jaiah Royal!
 This repository contains projects I’ve completed for my Object-Oriented Programming course.
 As I progress through the semester, I will upload new projects to showcase my hard work and learning.
 I built this space to make it easier for you (employers, collaborators, or the just-curious) to explore my work.  
