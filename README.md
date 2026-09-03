@@ -25,15 +25,15 @@ A **Java** program that generates a unique user string based on customer input.
 ---
 
 ## 💡 About Me
-My name is Jaiah Royal, and I’m a Computer Science student at Purdue University with a passion for Software Engineering and Cybersecurity.
+My name is Jaiah Royal, and I’m a Computer Science student at Purdue University pursuing a concentration in Machine Intelligence, with interests in Software Engineering and Security.
 
 
 
-On campus, I’m actively involved as a Student Ambassador at the Black Cultural Center and a Performing Arts Ensemble member in Black Voices of Inspiration. I also serve as a Parking Attendant for Purdue Athletics and a Peer Mentor in the Global Science Partners Learning Community.
+On campus, I’m actively involved as a Student Ambassador / Front Desk Staff at the Black Cultural Center as well as a Performing Arts Ensemble member in Black Voices of Inspiration and New Directional Players. I am also a member of IMPACT, a Christian Ministry Organization, serving as the Events & Planning Lead.
 
 
 
-Beyond academics, I participate in several organizations that promote student engagement, leadership, and community development — reflecting my commitment to both technology and teamwork.
+Beyond my role as a student, I participate in several additional organizations that promote student engagement, leadership, and community development — reflecting my commitment to both technology and teamwork.
 
 
 ---
