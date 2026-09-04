@@ -1,8 +1,6 @@
 # 👋😁 Hi, Welcome to my coding portfolio!
 
-This repository contains projects I’ve completed for my Object-Oriented Programming course.
-As I progress through the semester, I will upload new projects to showcase my hard work and learning.
-I built this space to make it easier for you (employers, collaborators, or the just-curious) to explore my work.  
+This repository is a collection of projects I’ve completed throughout my Computer Science coursework and personal learning. As I continue learning and exploring different areas of technology, I’ll add new projects to showcase what I’m working on. I built this space to make it easy for employers, collaborators, and anyone curious to explore my work and follow my growth as a developer.
 
 ---
 
