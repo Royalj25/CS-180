@@ -9,31 +9,36 @@ I built this space to make it easier for you (employers, collaborators, or the j
 ## 📂 Projects
 
 
-### 🔥 [Hobby Recommender](https://github.com/Royalj25/HobbyRecommender.git)
+### 🔥 [Hobby Recommender](https://github.com/Royalj25/HobbyRecommender)
 A **Java** program that recommends hobbies based on user input.  
 - Demonstrates use of control flow and string handling
 - Interactive quiz-style program for hobby suggestions
 - Beginner-friendly project demonstrating decision-making logic 
 
 
-### 💻 [Create New User](https://github.com/Royalj25/CreateNewUser.git)
+### 💻 [Create New User](https://github.com/Royalj25/CreateNewUser)
 A **Java** program that generates a unique user string based on customer input.
 - Demonstrates string manipulation and user input handling
 - Generates unique identifiers to simulate user account creation
 - Beginner-friendly project showcasing interactive program design
 
+
+### 🧠 [Word Guesser](https://github.com/Royalj25/WordGuesser)
+A **Java** two-player word guessing game where Player 2 attempts to guess Player 1's word.
+- Demonstrates arrays, loops, conditionals, and user input
+- Reveals correctly guessed characters
+- Tracks remaining guesses and allows players to start another round
+
+
 ---
 
 ## 💡 About Me
-My name is Jaiah Royal, and I’m a Computer Science student at Purdue University pursuing a concentration in Machine Intelligence, with interests in Software Engineering and Security.
 
+Hi! I'm Jaiah Royal, a Computer Science student at Purdue University pursuing a concentration in Machine Intelligence and a minor in Psychology. I'm interested in software development, security, and exploring the ways technology can be used to solve problems and create new experiences.
 
+Outside of academics, I'm involved on campus as a Student Ambassador at Purdue's Black Cultural Center (BCC), the Events & Social Lead for IMPACT and a member of two Performing Art Ensembles at the BCC: Black Voices of Inspiration (BVOI) and New Directional Players (NDP), which gives me a fun balance between my technical and creative interests.
 
-On campus, I’m actively involved as a Student Ambassador / Front Desk Staff at the Black Cultural Center as well as a Performing Arts Ensemble member in Black Voices of Inspiration and New Directional Players. I am also a member of IMPACT, a Christian Ministry Organization, serving as the Events & Planning Lead.
-
-
-
-Beyond my role as a student, I participate in several additional organizations that promote student engagement, leadership, and community development — reflecting my commitment to both technology and teamwork.
+In my free time, I enjoy gaming, watching anime, traveling, and finding new things to learn. I'm always looking for opportunities to grow my skills, build something interesting, and see where interests can take me.
 
 
 ---
