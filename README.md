@@ -28,6 +28,8 @@ A **Java** two-player word guessing game where Player 2 attempts to guess Player
 - Tracks remaining guesses and allows players to start another round
 
 
+[Here is a link to test these projects](https://github.com/Royalj25/TestingTutorial)
+
 ---
 
 ## 💡 About Me
